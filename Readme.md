@@ -1,4 +1,4 @@
-# Suggestion_Mining_Using_Twitter_Data
+# :memo: Suggestion_Mining_Using_Twitter_Data
 Suggestion Mining on any keyword/hashtag passed by user and also this code generates a csv file at last as a report
 
 Dependencies needed to be installed before running this program in your
@@ -10,7 +10,7 @@ python shell :
         4- csv //module for csv files
         5- re //module for regular expressions
 
-## Basics ..
+## :rainbow: Basics ..
 
 This is very basic implementation of Twitter analysis on any string of words also with a low level implementation of tkinter library in python for building its gui part
 
